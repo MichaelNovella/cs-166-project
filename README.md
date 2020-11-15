@@ -1,3 +1,5 @@
 cs166 project
 
-Current Goals:
+Group members: Eric Smrkovsky, 
+
+Current Goals: Skeleton program
