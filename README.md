@@ -1,1 +1,3 @@
-cs 166 project
+cs166 project
+
+Current Goals:
